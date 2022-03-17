@@ -41,13 +41,4 @@ Image Picker
 
 ![Cargo watch presentation](https://user-images.githubusercontent.com/56475378/158769544-282d432a-411e-4267-a1c7-ab389380edae.jpg)
 
-
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.figma.com/community/file/893381127703378146
